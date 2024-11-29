@@ -20,7 +20,7 @@ const navItems = [
     href: "/projects",
   },
   {
-    title: { en: "Contact", pt: "Contacto" },
+    title: { en: "Contacts", pt: "Contactos" },
     href: "/contact",
   },
   {

@@ -21,12 +21,11 @@ export default function ContactPage() {
     >
       <Navbar />
 
-      <section className="relative h-[30vh] flex items-center justify-center overflow-hidden">
+      <section className="relative h-[50vh] flex items-center justify-center overflow-hidden">
         <Image
           src="/cobalto.webp"
           alt="Contact us hero image"
-          height={3000}
-          width={5000}
+          fill
           className="absolute inset-0 w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-transparent to-gray-900 opacity-70"></div>

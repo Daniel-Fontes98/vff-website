@@ -48,7 +48,7 @@ export default function ProjectsPage() {
       <Navbar />
 
       {/* Hero Section */}
-      <section className="relative h-[40vh] flex items-center justify-center overflow-hidden">
+      <section className="relative h-[50vh] flex items-center justify-center overflow-hidden">
         <Image
           src="/img4.jpg"
           alt="Mining projects hero image"
